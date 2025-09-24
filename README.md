@@ -1,5 +1,5 @@
 <!--Banner-->
-![guriii3108 Banner Image](https://github.com/guriii3108/guriii3108/github-header-banner.png)
+![guriii3108 Banner Image](https://github.com/guriii3108/guriii3108/blob/main/README.md)
 
 <!--Night Owl image-->
 <div>
