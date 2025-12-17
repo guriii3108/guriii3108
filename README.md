@@ -26,6 +26,7 @@ I will build mini-projects daily, push code to GitHub, and share my learning pub
 
 ---
 <br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
