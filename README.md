@@ -13,18 +13,13 @@
 
 <a href="mailto:sgurveer97@gmail.com">
   <img src="https://img.shields.io/badge/Gmail--brightgreen?style=for-the-badge&logo=gmail&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" />
-</a>
-<a href=""><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5"></a>
-
-<a href="https://www.geeksforgeeks.org/user/gautamxd/"><img src="https://img.shields.io/badge/GFG--brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of GFG with username guri" ></a>
-<a href="https://leetcode.com/u/gautam_kum4r/"><img src="https://img.shields.io/badge/Leetcode--brightgreen?style=for-the-badge&logo=Leetcode&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of Leetcode with username guri" ></a>
-<a href="https://www.linkedin.com/in/guriii3108/">
+</a><a href="https://www.linkedin.com/in/guriii3108/">
 <img src="https://img.shields.io/badge/LinkedIn--brightgreen?style=for-the-badge&logo=linkedin&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" />
-</a>
-</a>
-<a href="https://twitter.com/xXGauTamxX_"><img src="https://img.shields.io/badge/Twitter--brightgreen?style=for-the-badge&logo=X&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of Twitter with username guri" ></a>
-
+</a></a>
+<a href="https://x.com/guriii3108"><img src="https://img.shields.io/badge/Twitter--brightgreen?style=for-the-badge&logo=X&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of Twitter with username guri" ></a>
+<a href="https://www.threads.com/@guriii3108"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5"></a>
 </div>
+<br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -36,6 +31,7 @@ I’m a web developer focused on building clean, scalable, and maintainable appl
 I enjoy working across the stack — crafting intuitive user interfaces on the frontend and designing reliable logic on the backend.
 
 My approach to development is simple:
+
 	•	Build real things
 	•	Write readable, maintainable code
 	•	Keep learning and improving with every project
@@ -44,7 +40,8 @@ I’m especially interested in turning ideas into practical products and improvi
 
 ⸻
 
-🌱 What I’m Working On
+🌱 What I’m Working On:
+
 	•	Full-stack web applications
 	•	Backend architecture and best practices
 	•	Writing cleaner APIs and reusable components
@@ -56,6 +53,7 @@ I’m especially interested in turning ideas into practical products and improvi
 I write technical blogs to document what I learn and to help others understand web development concepts more clearly.
 [DEV](https://dev.to/guriii3108)
 
+⸻
 
 ❤ Contributing to Open Source.
 
@@ -80,7 +78,7 @@ Earlier, I completed a focused learning phase where I built projects consistentl
 
 | Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frameworks           | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>                                                                                                                      |
+| Frameworks           | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>                                                                                                                      |
 | Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />                                                                                                                     |
 | Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>                                                                                                                                                                                                                                      |
@@ -88,7 +86,7 @@ Earlier, I completed a focused learning phase where I built projects consistentl
 | Competitive Coding   | <a href="https://leetcode.com/gautam_kum4r/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/gautamxd"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>                                                                                                                                                                                                                   |
 | IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />                                                                                                                                                                                                                                                                                                                                |
 | Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>                      |
-| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/Thunderclient-FF6C37?style=for-the-badge&logo=Unsplash&logoColor=white" />                                                                                                                                                                                                                        |
+| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/Thunder%20Client-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" />                                                                                                                                                                                                                    |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -120,11 +118,6 @@ Earlier, I completed a focused learning phase where I built projects consistentl
 <br />
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guriii3108&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
