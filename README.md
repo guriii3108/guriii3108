@@ -100,15 +100,15 @@ Earlier, I completed a focused learning phase where I built projects consistentl
   <td width="50%" align="center">
       <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <img
-        src="https://streak-stats.demolab.com?user=guriii3108&theme=tokyonight&hide_border=true"
-        height="165"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guriii3108&theme=tokyonight&hide_border=true
+        height=""
       />
     </td>
     <td width="50%" align="center">
       <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <img
         src="https://github-readme-stats.vercel.app/api?username=guriii3108&show_icons=true&theme=tokyonight&hide_border=true"
-        height="165"
+        height=""
       />
     </td>
     
