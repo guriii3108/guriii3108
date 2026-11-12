@@ -1,141 +1,146 @@
-<!--Header Name-->
-<h1 align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=27&letterSpacing=1px&pause=1000&color=F71313&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Gurveer+Singh+%F0%9F%98%83;Full+Stack+Developer+;Coffee+%E2%98%95%EF%B8%8F+Lover;Problem+Solver+%E2%9C%8D%F0%9F%8F%BB" alt="Typing SVG" /></a>
-</h1>
-<!--- -------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- -------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=guriii3108&labelColor=%230a0209&countColor=%230a0209&labelStyle=upper" />
-  <br><br>
-
-<a href="mailto:sgurveer97@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail--brightgreen?style=for-the-badge&logo=gmail&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" />
-</a><a href="https://www.linkedin.com/in/guriii3108/">
-<img src="https://img.shields.io/badge/LinkedIn--brightgreen?style=for-the-badge&logo=linkedin&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" />
-</a></a>
-<a href="https://x.com/guriii3108"><img src="https://img.shields.io/badge/Twitter--brightgreen?style=for-the-badge&logo=X&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5" alt="profile of Twitter with username guri" ></a>
-<a href="https://www.threads.com/@guriii3108"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=%230A0209&logoSize=auto&labelColor=%23D5D5D5&color=%23D5D5D5"></a>
-</div>
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-Web Developer | Full-Stack Enthusiast
-
-I’m a web developer focused on building clean, scalable, and maintainable applications.
-I enjoy working across the stack — crafting intuitive user interfaces on the frontend and designing reliable logic on the backend.
-
-My approach to development is simple:
-
-	•	Build real things
-	•	Write readable, maintainable code
-	•	Keep learning and improving with every project
-
-I’m especially interested in turning ideas into practical products and improving them through iteration and feedback.
-
-⸻
-
-🌱 What I’m Working On:
-
-	•	Full-stack web applications
-	•	Backend architecture and best practices
-	•	Writing cleaner APIs and reusable components
-
-⸻
-
-✍ Writing & Sharing
-
-I write technical blogs to document what I learn and to help others understand web development concepts more clearly.
-[DEV](https://dev.to/guriii3108)
-
-⸻
-
-❤ Contributing to Open Source.
-
-I enjoy contributing to open-source projects and collaborating with developers who care about code quality and learning.
-
-⸻
-
-📌 Background (Brief)
-
-Earlier, I completed a focused learning phase where I built projects consistently and strengthened my fundamentals in modern web development. That experience shaped my habit of shipping code and learning by doing.
-
-
-<!-- - 💻 Visit my [Portfolio](https://guriii3108.github.io) for more details about me. -->
-
-<!--End Intro-->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
-
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frameworks           | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>                                                                                                                      |
-| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />                                                                                                                     |
-| Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>                                                                                                                                                                                                                                      |
-| Services & Tools     | <a href="https://github.com/guriii3108"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>                                                                                                                                                                                              |
-| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />                                                                                                                                                                                                                                                                                                                                |
-| Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>                      |
-| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/Thunder%20Client-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" />                                                                                                                                                                                                                    |
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--Trophies Section-->
-
-
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-  <td width="50%" align="center">
-      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=guriii3108&theme=tokyonight&hide_border=true
-        height=""
-      />
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=guriii3108&show_icons=true&theme=tokyonight&hide_border=true"
-        height=""
-      />
-    </td>
-    
-  </tr>
-</table>
-<br />
-<br />
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--Dynamic Quote card updated everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0e7490&height=200&section=header&text=Gurveer%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20GenAI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" />
 </p>
 
-Credit: [guriii3108](https://github.com/guriii3108)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+LLM+apps+that+ship;RAG+%C2%B7+Agents+%C2%B7+Evals;FastAPI+%2B+Next.js+end+to+end;Python+%7C+TypeScript+%7C+AWS" alt="Typing SVG" /></a>
+</p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Learning&lineCount=2&theme=github_dark&line1=node.js,nodejs,auto;mongodb,mongodb,auto;express,express,auto" />
-</p> -->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=guriii3108&labelColor=%230D1117&countColor=%237C3AED&labelStyle=upper" />
+</p>
+
+<p align="center">
+  <a href="mailto:sgurveer97@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+  <a href="https://www.linkedin.com/in/guriii3108/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+  <a href="https://x.com/guriii3108"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=22D3EE" /></a>
+  <a href="https://www.threads.com/@guriii3108"><img src="https://img.shields.io/badge/Threads-0D1117?style=for-the-badge&logo=threads&logoColor=22D3EE" /></a>
+  <a href="https://dev.to/guriii3108"><img src="https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=22D3EE" /></a>
+</p>
+
+<!-- ============ ABOUT ============ -->
+## `> whoami`
+
+AI / GenAI engineer and full-stack developer. I build LLM-powered products end to end: the model layer, retrieval and evaluation plumbing, the API, and the interface users touch.
+
+- **Ship it.** A demo that runs beats a notebook that doesn't.
+- **Evaluate everything.** If I can't measure a prompt, retriever, or agent change, I don't trust it.
+- **Boring infrastructure.** Typed APIs, containers, observability, clean interfaces around the model.
+
+## `> currently_building`
+
+| Area | Focus |
+| ---- | ----- |
+| 🧠 **RAG** | Ingestion pipelines, chunking, hybrid retrieval, reranking, grounded answers with citations |
+| 🤖 **Agents** | Tool use, multi-step workflows, guardrails, failure handling |
+| 📏 **Evals** | Golden datasets, prompt regression tests, LLM-as-judge with human spot checks |
+| ⚡ **Serving** | FastAPI with streaming, caching, rate limiting, cost tracking |
+| 📈 **Classical ML** | Feature engineering, training, experiment tracking (scikit-learn / PyTorch) |
+| 🌐 **Web** | Next.js (App Router, TS, Tailwind), streaming chat UIs, dashboards |
+<!--
+## `> featured_projects`
+
+
+
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric (latency, accuracy, cost per query). | `Python` `FastAPI` `LangChain` `PostgreSQL` `Docker` |
+| **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric. | `Next.js` `TypeScript` `LLM API` `Redis` |
+| **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric. | `PyTorch` `scikit-learn` `HuggingFace` |
+ -->
+## `> stack`
+
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/LLM_APIs-0D1117?style=for-the-badge&logo=openai&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Agents-0D1117?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Evals-0D1117?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=22D3EE" />
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=A78BFA" />
+
+**Frontend & Backend**
+<br>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=A78BFA" />
+
+**Data**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=22D3EE" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/HF_Spaces-0D1117?style=for-the-badge&logo=huggingface&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=A78BFA" />
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Thunder_Client-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Unsplash_API-0D1117?style=for-the-badge&logo=unsplash&logoColor=22D3EE" />
+
+## `> github_stats`
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guriii3108&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=FFFFFF&sideLabels=A78BFA&dates=94A3B8&stroke=1E293B&hide_border=true" />
+</p>
+
+<!-- Generated daily by .github/workflows/metrics.yml. Run the workflow once manually to create this file. -->
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+## `> writing`
+
+I write about what I build: LLM apps, RAG pitfalls, full-stack patterns. → [dev.to/guriii3108](https://dev.to/guriii3108)
+
+## `> open_source`
+
+I contribute to open-source projects and care about code quality, tests, and clear docs.
+
+## `> contact`
+
+Open to AI/GenAI engineering roles, freelance LLM projects, and collaborations → [sgurveer97@gmail.com](mailto:sgurveer97@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:302b63,100:0f0c29&height=80&section=footer" />
+</p>
