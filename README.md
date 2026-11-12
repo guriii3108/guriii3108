@@ -38,17 +38,17 @@ AI / GenAI engineer and full-stack developer. I build LLM-powered products end t
 | ⚡ **Serving** | FastAPI with streaming, caching, rate limiting, cost tracking |
 | 📈 **Classical ML** | Feature engineering, training, experiment tracking (scikit-learn / PyTorch) |
 | 🌐 **Web** | Next.js (App Router, TS, Tailwind), streaming chat UIs, dashboards |
-<!--
+
 ## `> featured_projects`
 
-
+<!-- Replace with real projects. Keep 3-4, best first. Each needs: problem, the hard part, one metric, a link. -->
 
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
 | **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric (latency, accuracy, cost per query). | `Python` `FastAPI` `LangChain` `PostgreSQL` `Docker` |
 | **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric. | `Next.js` `TypeScript` `LLM API` `Redis` |
 | **[Project Name](https://github.com/guriii3108/REPO)** | One sentence on the problem. One concrete metric. | `PyTorch` `scikit-learn` `HuggingFace` |
- -->
+
 ## `> stack`
 
 **AI / ML**
@@ -124,9 +124,13 @@ AI / GenAI engineer and full-stack developer. I build LLM-powered products end t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guriii3108&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=22D3EE&sideNums=FFFFFF&sideLabels=A78BFA&dates=94A3B8&stroke=1E293B&hide_border=true" />
 </p>
 
-<!-- Generated daily by .github/workflows/metrics.yml. Run the workflow once manually to create this file. -->
+<!-- Generated daily by .github/workflows/metrics.yml. Run the workflow once manually to create these files. -->
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <img src="./metrics-calendar.svg" />
+</p>
+
+<p align="center">
+  <img src="./metrics-languages.svg" />
 </p>
 
 ## `> writing`
